@@ -9,7 +9,6 @@ This website is designed to present the company’s services, pricing packages, 
 - Home elderly health monitoring
 - Blood pressure monitoring
 - Blood oxygen monitoring
-- Blood glucose monitoring
 - Weight monitoring
 - Health records
 - Family updates
@@ -21,7 +20,6 @@ This website is designed to present the company’s services, pricing packages, 
 - Home visit once every 2 weeks
 - Blood pressure
 - Blood oxygen
-- Blood glucose
 - Weight
 - Health records
 - Family updates
@@ -31,7 +29,6 @@ This website is designed to present the company’s services, pricing packages, 
 - Home visit once every week
 - Blood pressure
 - Blood oxygen
-- Blood glucose
 - Weight
 - Health records
 - Family updates
@@ -42,9 +39,8 @@ This website is designed to present the company’s services, pricing packages, 
 The service uses certified medical monitoring products, including:
 
 - Lepu Medical Oximeter  
-- Omron Medical Blood Pressure Monitor  
-- Contour Plus Medical Meter Blood Glucose Monitor  
-- Contour Plus Blood Glucose Test Strips  
+- Omron Medical Blood Pressure Monitor
+  
 
 ## Business Information
 
