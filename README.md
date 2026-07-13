@@ -1,81 +1,46 @@
-# Thousand Heart Enterprise Website
+# Thousand Heart 长者关怀
 
-Official business website for **Thousand Heart Enterprise**, providing **home elderly health monitoring services** in Penang, Malaysia.
+Official website for **Thousand Heart 长者关怀 | Elder Care**.
 
-This website is designed to present the company’s services, pricing packages, certified medical monitoring devices, contact information, and customer-friendly business introduction in a professional and SEO-ready format.
+We provide scheduled home visits, companionship, basic wellness observation, care records, and post-visit family updates for seniors and families living apart.
 
-## Services Included
+## Services
 
-- Home elderly health monitoring
-- Blood pressure monitoring
-- Blood oxygen monitoring
-- Weight monitoring
-- Health records
-- Family updates
-- Caring companion visits
+- Regular Home Visits
+- Companionship 15–20 mins
+- Basic Wellness Observation
+  - Blood Pressure
+  - Blood Oxygen
+  - Weight
+- Care Records
+- Family Updates
 
-## Packages
+## Care Plans
 
-### Package 1 — RM199 / month
-- Home visit once every 2 weeks
-- Blood pressure
-- Blood oxygen
-- Weight
-- Health records
-- Family updates
-- Short companion visit (15–20 mins)
+### Basic Care Plan
+- RM199 per month
+- One home visit every 2 weeks
+- 2 visits per month
 
-### Package 2 — RM299 / month
-- Home visit once every week
-- Blood pressure
-- Blood oxygen
-- Weight
-- Health records
-- Family updates
-- Companion chat (15–20 mins)
+### Weekly Care Plan
+- RM299 per month
+- One home visit every week
+- 4 visits per month
 
-## Quality Assurance
+## Suitable For
 
-The service uses certified medical monitoring products, including:
+- Seniors living alone
+- Seniors with limited mobility
+- Families living apart
 
-- Lepu Medical Oximeter  
-- Omron Medical Blood Pressure Monitor
-  
+## Important Notice
 
-## Business Information
+This is a non-medical service. We do not provide diagnosis, treatment, prescriptions, injections, wound care, or emergency response.
 
-**Business Name:** Thousand Heart Enterprise  
-**Service Name:** Home Elderly Health Monitoring Service  
-**Location:**  
-C-5-20 Rumah Pangsa Mutiara Indah,  
-Persiaran Mutiara Indah,  
-14120 Simpang Ampat, Penang, Malaysia
+## Contact
 
-**WhatsApp:** 014-7088735
+WhatsApp: 014-7088 735  
+Email: contact.thousandheart@gmail.com
 
-## Website Features
-
-- Professional business homepage
-- Bilingual content support
-- Pricing packages section
-- FAQ section
-- Contact section
-- SEO-friendly metadata
-- Local business structured data
-- WhatsApp contact button
-
-## Purpose
-
-This project is created as the official online presence of Thousand Heart Enterprise to help customers understand the business, services, and pricing more clearly, while making it easier for families to reach out for elderly home monitoring support.
-
-## Deployment
-
-This project can be deployed as:
-
-- A **Next.js website**
-- A **static HTML landing page**
-- A business website hosted on platforms such as **Vercel**, **Netlify**, or other hosting providers
-
-## License
-
-All rights reserved by Thousand Heart Enterprise.
+Operated by **Thousand Heart Enterprise**  
+SSM Reg. No.: **202303289864**
